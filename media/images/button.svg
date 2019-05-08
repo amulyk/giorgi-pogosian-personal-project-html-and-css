@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Button" transform="translate(-548 -200)">
+    <g id="Rounded_Rectangle_14" data-name="Rounded Rectangle 14" transform="translate(548 200)" fill="#fff" stroke="#a1b1bc" stroke-linejoin="round" stroke-width="1">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="4.5" fill="none"/>
+    </g>
+    <path id="Rounded_Rectangle_15_copy_2" data-name="Rounded Rectangle 15 copy 2" d="M557,220a1,1,0,1,1,0-2h12a1,1,0,0,1,0,2Zm0-4a1,1,0,1,1,0-2h12a1,1,0,0,1,0,2Zm0-4a1,1,0,0,1,0-2h12a1,1,0,0,1,0,2Z" fill="#a1b1bc"/>
+  </g>
+</svg>
